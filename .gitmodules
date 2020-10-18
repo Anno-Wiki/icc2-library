@@ -1,0 +1,3 @@
+[submodule "icc2-formatter"]
+	path = icc2-formatter
+	url = icc:icc2-formatter
