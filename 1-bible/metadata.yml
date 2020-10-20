@@ -2,6 +2,8 @@ bookid: 1
 title: Authorized King James Version Holy Bible
 slug: bible
 delimiter: angles
+noshow:
+    - 3
 toc:
     - ~
     - Book

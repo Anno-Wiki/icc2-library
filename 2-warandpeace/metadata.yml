@@ -2,6 +2,7 @@ bookid: 2
 title: War and Peace
 slug: warandpeace
 delimiter: angles
+noshow: []
 toc:
     - Book
     - Chapter
