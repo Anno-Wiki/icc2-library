@@ -3,6 +3,8 @@ title: War and Peace
 slug: warandpeace
 delimiter: angles
 noshow: []
+linkable:
+    - 1
 toc:
     - Book
     - Chapter

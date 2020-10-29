@@ -4,6 +4,8 @@ slug: bible
 delimiter: angles
 noshow:
     - 3
+linkable:
+    - 2
 toc:
     - ~
     - Book
